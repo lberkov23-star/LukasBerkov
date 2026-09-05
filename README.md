@@ -17,6 +17,8 @@ Link: https://github.com/lberkov23-star/Premier-League-Big-6-Home-vs-Away-Statis
 Statistical analysis of home vs away performance of the premier league "big 6"
 
 ### Chess Statistical Analysis
+Link: https://github.com/lberkov23-star/Chess-Age-and-Elo-Statistical-Evaluation.git
+
 Compares ELO rating to age among top chess players.
 
 ### Machine Learning Premier League Prediction Prototype
