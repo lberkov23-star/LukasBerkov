@@ -12,7 +12,6 @@ My work includes projects involving statistics, machine learning, artificial int
 ## Featured Projects
 
 ### Premier League Big 6 Statistics Analysis
-Link: README.md
 Statistical analysis of home vs away performance of the premier league "big 6"
 
 ### Chess Statistical Analysis
