@@ -8,6 +8,7 @@ My work includes projects involving statistics, machine learning, artificial int
 - IBM Project Management Fundamentals
 - SAS AI Foundations Knowledge Badge
 - Kaggle Intro to Machine Learning
+
 Link: https://github.com/lberkov23-star/Certificates.git
 
 ## Featured Projects
