@@ -27,6 +27,8 @@ Link: https://github.com/lberkov23-star/Premier-League-ML.git
 Basic prediction machine for premier league games.
 
 ### Quantitative/Actuarial Science and AI
+Link: https://github.com/lberkov23-star/AI-and-Actuarial-Quantitative-Careers.git
+
 Project focuses on trends and future predictions for jobs in Quantitative Analysis and Actuarial Science under the impact of AI.
 
 ## Skills
