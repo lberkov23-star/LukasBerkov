@@ -22,6 +22,8 @@ Link: https://github.com/lberkov23-star/Chess-Age-and-Elo-Statistical-Evaluation
 Compares ELO rating to age among top chess players.
 
 ### Machine Learning Premier League Prediction Prototype
+Link: https://github.com/lberkov23-star/Premier-League-ML.git
+
 Basic prediction machine for premier league games.
 
 ### Quantitative/Actuarial Science and AI
