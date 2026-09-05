@@ -12,6 +12,7 @@ My work includes projects involving statistics, machine learning, artificial int
 ## Featured Projects
 
 ### Premier League Big 6 Statistics Analysis
+Link: https://github.com/lberkov23-star/Premier-League-Big-6-Home-vs-Away-Statistical-Report-and-Contextual-Analysis-.git 
 Statistical analysis of home vs away performance of the premier league "big 6"
 
 ### Chess Statistical Analysis
